@@ -21,5 +21,3 @@ if %errorlevel% equ 0 (
     echo Command failed setup with error code %errorlevel%.
 )
 
-:: Keep the command window open
-pause
