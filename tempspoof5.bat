@@ -1,5 +1,4 @@
 @echo off
-
-
 cd /d "C:\Program Files\Snippingtool"
-start mapper.exe spoof.sys
+start /b mapper.exe spoof.sys
+
